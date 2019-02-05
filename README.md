@@ -1,24 +1,24 @@
-Futuro Core staging tree 0.1
+District Core staging tree 0.1
 ===============================
 
-https://www.futurocoin.com/
+(link coming soon)
 
 
-What is FuturoCoin?
+What is DistrictCoin?
 ----------------
 
 
-FuturoCoin is a new digital cryptocurrency that is created to guarantee instant 
+DistrictCoin is a new digital cryptocurrency that is created to guarantee instant 
 payments to anyone, anywhere in the world with the constant transaction fees at the
-competing level. FuturoCoin uses  peer-to-peer technology to operate with no central
+competing level. DistrictCoin uses  peer-to-peer technology to operate with no central
 authority: managing transactions and issuing money are carried out collectively by
-the network. Futuro Core is the name of the open source software which enables the 
+the network. District Core is the name of the open source software which enables the 
 use of this currency.
 
 
 
 For more information, as well as an immediately useable, binary version of the
-Futuro core software, see http://futurocoin.com/.
+District core software, see (link coming soon)
 
 
 License
@@ -31,8 +31,8 @@ Development Process
 -------------------
 
 The `master` branch is meant to be stable. Development is normally done in separate branches.
-[Tags](https://github.com/futuro-coin/Futuro/tags) are created to indicate new official,
-stable release versions of Futuro Core.
+[Tags](https://github.com/District69/District/tags) are created to indicate new official,
+stable release versions of District Core.
 
 
 Testing
